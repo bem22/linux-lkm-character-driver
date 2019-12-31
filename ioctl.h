@@ -1,0 +1,1 @@
+#define MODIFY_MEMORY 0
