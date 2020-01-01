@@ -56,4 +56,5 @@ This project is licensed under the Apache License Version 2.0 - see the [LICENSE
 ## Built with
 - [Make](https://www.gnu.org/software/make/manual/make.html) - GNU Make
 - [CLion](https://www.jetbrains.com/clion/) - IDEA Project
-- [valgrind](https://valgrind.org/) - memory testing
+- [valgrind](https://valgrind.org/) - memory testing userspace
+- [kedr](https://github.com/euspecter/kedr) - Memory checking kernel space
