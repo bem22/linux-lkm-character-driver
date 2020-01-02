@@ -31,9 +31,3 @@ The code also implements blocking reads and writes:
 For the available kernel mechanisms to achieve blocking, see the section *``Wait queues and Wake events''* in the device driver documentation (https://www.linuxtv.org/downloads/v4l-dvb-internals/device-drivers/ch01s04.html). 
 
 Two kernel modules are produced by this task, one named **charDeviceDriver.ko** and one named **charDeviceDriverBlocking.ko**. It is assumed that only one of these two modules will be loaded at any given time.
-
-## Useful links
-Introduction to writing Linux kernel modules, part 1
-Introduction to writing Linux kernel modules, part 2
-Linux kernel API
-Browsing Linux kernel source
